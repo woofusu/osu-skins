@@ -1,5 +1,5 @@
 # woofus's osu-skins
-these are some skins I am currently using (last updated 1/26/2023
+these are some skins I am currently using (last updated 1/26/2023)
 
 
 
